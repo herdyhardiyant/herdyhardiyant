@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, my name is Herdy Hardiyant</h1>
-<h3 align="center">a full-stack web developer and a passionate game developer from Indonesia</h3>
-
-- 🌱 I’m currently learning **Unity Game Development**
+<h3 align="center">A Game Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
